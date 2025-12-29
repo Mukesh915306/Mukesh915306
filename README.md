@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, I am Mukesh Kumar
 
-<!--
-**Mukesh915306/Mukesh915306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 I live in Bokaro, Jharkhand, India.
+- 🎓 B.Tech (3rd Year), expected to graduate in 2027.
+- 💻 Aspiring Software Developer.
+- 📫 E-mail: mk455303786@gmail.com
+- ⚡ Fun fact: I enjoy learning new technologies and building projects.
 
-Here are some ideas to get you started:
+## Skills
+- 🧠 Languages: C, Java, Python, HTML/CSS, JavaScript
+- 🔧 Tools: Git, GitHub, VS Code 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact with Me
+- 👜 LinkedIn:
+https://linkedin.com/in/mukesh-kumar5567
+- 📫 E-mail: mk455303786@gmail.com
+
+
+  
