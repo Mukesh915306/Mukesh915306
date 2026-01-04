@@ -1,19 +1,24 @@
-## Hello, I am Mukesh Kumar
+## Hello, I'm Mukesh Kumar
 
-- 📍 I live in Bokaro, Jharkhand, India.
-- 🎓 B.Tech (3rd Year), expected to graduate in 2027.
-- 💻 Aspiring Software Developer.
-- 📫 E-mail: mk455303786@gmail.com
-- ⚡ Fun fact: I enjoy learning new technologies and building projects.
+## About Me
+- 🎓 B.Tech (3rd Year) Computer Science & Engineering
+- 💻 Passionate about Data Structures & Algorithms and Problem Solving
+- 🧠 Actively practicing problems on LeetCode
 
-## Skills
-- 🧠 Languages: C, Java, Python, HTML/CSS, JavaScript
-- 🔧 Tools: Git, GitHub, VS Code 
+## Skills & Technologies
+- Programming Language: Java, C programming.
+- Core CS: Data Structure & Algorithms, OOPs, DBMS, OS.
+- Tools & Platforms: GitHub, LeetCode, Geeks For Geeks, CodeChef.
+- Currently Learning: Advanced DSA & Problem-Solving techniques.
+
+## What I'm Doing Now
+- Solving DSA problems daily on LeetCode
+- Strengthening Java fundamentals
 
 ## Contact with Me
 - 👜 LinkedIn:
-https://linkedin.com/in/mukesh-kumar5567
-- 📫 E-mail: mk455303786@gmail.com
+[https://linkedin.com/in/mukesh-kumar5567]
+- 📫 E-mail: [mk455303786@gmail.com]
 
 
   
